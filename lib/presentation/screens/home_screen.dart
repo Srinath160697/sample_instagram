@@ -8,7 +8,7 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text("Instagram Status UI")),
+      appBar: AppBar(title: const Text("Instagram Status UI Clone")),
       body: Column(
         children: [
           const StatusList(),
